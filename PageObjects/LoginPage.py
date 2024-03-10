@@ -1,7 +1,7 @@
 from selenium.common.exceptions import NoSuchElementException
 from SupportLibraries.base_helper import BaseHelpers
 
-class LoginPaged(BaseHelpers):
+class LoginPage(BaseHelpers):
     def __init__(self, driver):
         super().__init__(driver)
 
