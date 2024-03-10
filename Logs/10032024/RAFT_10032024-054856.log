@@ -1,0 +1,2 @@
+2024-03-10 05:49:27,088 - INFO - Element found with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-10 05:49:27,151 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Username'] and locator_type: xpath

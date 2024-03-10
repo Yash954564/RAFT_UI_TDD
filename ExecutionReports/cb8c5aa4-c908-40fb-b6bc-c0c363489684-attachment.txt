@@ -1,0 +1,2 @@
+[32mINFO    [0m D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:195 Element found with locator_properties: //input[@id='form-username'] and locator_type: xpath
+[32mINFO    [0m D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:303 Sent data to the element with locator_properties: //input[@id='form-username'] and locator_type: xpath
