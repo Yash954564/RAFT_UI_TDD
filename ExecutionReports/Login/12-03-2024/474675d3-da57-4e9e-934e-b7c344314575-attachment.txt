@@ -1,0 +1,10 @@
+INFO     D:\QA\RAFT_TDD_UI\TestScripts\conftest.py - 	LN:12:conftest.py:35 Setting up test...
+INFO     D:\QA\RAFT_TDD_UI\TestScripts\conftest.py - 	LN:12:conftest.py:57 Test setup completed. Browser: chrome, URL: https://opensource-demo.orangehrmlive.com/
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:195 Element found with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:303 Sent data to the element with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:195 Element found with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:303 Sent data to the element with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:136 Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:195 Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\SupportLibraries\ui_helpers.py - 	LN:22:ui_helpers.py:252 Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+INFO     D:\QA\RAFT_TDD_UI\TestScripts\conftest.py - 	LN:12:conftest.py:66 Test teardown completed.

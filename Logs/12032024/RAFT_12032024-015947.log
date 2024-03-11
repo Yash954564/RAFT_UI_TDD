@@ -1,0 +1,30 @@
+2024-03-12 01:59:48,081 - INFO - Setting up test...
+2024-03-12 01:59:53,208 - INFO - Test setup completed. Browser: chrome, URL: https://opensource-demo.orangehrmlive.com/
+2024-03-12 01:59:53,833 - INFO - Element found with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 01:59:53,931 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 01:59:54,066 - INFO - Element found with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 01:59:54,126 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 01:59:54,261 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:59:54,271 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:59:54,943 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:59:57,148 - INFO - Test teardown completed.
+2024-03-12 01:59:57,151 - INFO - Setting up test...
+2024-03-12 02:00:06,250 - INFO - Test setup completed. Browser: chrome, URL: https://opensource-demo.orangehrmlive.com/
+2024-03-12 02:00:06,374 - INFO - Element found with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 02:00:06,451 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 02:00:06,571 - INFO - Element found with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 02:00:06,630 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 02:00:06,768 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:06,779 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:06,806 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:08,943 - INFO - Test teardown completed.
+2024-03-12 02:00:08,947 - INFO - Setting up test...
+2024-03-12 02:00:18,158 - INFO - Test setup completed. Browser: chrome, URL: https://opensource-demo.orangehrmlive.com/
+2024-03-12 02:00:18,294 - INFO - Element found with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 02:00:18,382 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Username'] and locator_type: xpath
+2024-03-12 02:00:18,521 - INFO - Element found with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 02:00:18,593 - INFO - Sent data to the element with locator_properties: //input[@placeholder='Password'] and locator_type: xpath
+2024-03-12 02:00:18,725 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:18,734 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:19,419 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 02:00:21,541 - INFO - Test teardown completed.

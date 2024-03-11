@@ -1,0 +1,2 @@
+2024-03-12 01:28:10,667 - ERROR - Element not found with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:28:10,667 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath

@@ -1,0 +1,16 @@
+2024-03-12 01:24:41,613 - ERROR - Element not found with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:24:41,613 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:24:41,731 - INFO - Element found with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 01:24:41,806 - INFO - Sent data to the element with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 01:24:41,940 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:24:41,950 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:24:41,975 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:24:55,594 - ERROR - Element not found with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:24:55,594 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:25:22,417 - ERROR - Element not found with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:25:22,417 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='usernames'] and locator_type: xpath
+2024-03-12 01:25:22,558 - INFO - Element found with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 01:25:22,642 - INFO - Sent data to the element with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 01:25:22,802 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:25:22,813 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 01:25:22,841 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
