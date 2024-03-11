@@ -1,0 +1,7 @@
+2024-03-12 00:42:45,500 - ERROR - Element not found with locator_properties: //input[@placeholder='username'] and locator_type: xpath
+2024-03-12 00:42:45,500 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='username'] and locator_type: xpath
+2024-03-12 00:42:45,502 - ERROR - Element not found with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 00:42:45,502 - ERROR - Unable to send data on the element with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 00:42:45,503 - ERROR - Exception occurred while waiting for element to be clickable.
+2024-03-12 00:42:45,503 - ERROR - Element is not clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 00:42:45,504 - ERROR - Unable to click on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath

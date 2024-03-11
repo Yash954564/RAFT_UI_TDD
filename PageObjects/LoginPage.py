@@ -5,8 +5,8 @@ class LoginPage(BaseHelpers):
     def __init__(self, driver):
         super().__init__(driver)
 
-    username = "//input[@placeholder='Username']"
-    password = "//input[@placeholder='Password']"
+    username = "//input[@placeholder='username']"
+    password = "//input[@placeholder='password']"
     submit_button = "//button[normalize-space()='Login']"
 
     def enter_username(self, uname):

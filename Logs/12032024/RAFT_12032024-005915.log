@@ -1,0 +1,7 @@
+2024-03-12 00:59:22,969 - INFO - Element found with locator_properties: //input[@placeholder='username'] and locator_type: xpath
+2024-03-12 00:59:23,069 - INFO - Sent data to the element with locator_properties: //input[@placeholder='username'] and locator_type: xpath
+2024-03-12 00:59:23,085 - INFO - Element found with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 00:59:23,134 - INFO - Sent data to the element with locator_properties: //input[@placeholder='password'] and locator_type: xpath
+2024-03-12 00:59:23,160 - INFO - Element is clickable with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 00:59:23,177 - INFO - Element found with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
+2024-03-12 00:59:23,208 - INFO - Clicked on the element with locator_properties: //button[normalize-space()='Login'] and locator_type: xpath
